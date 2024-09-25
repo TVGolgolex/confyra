@@ -11,8 +11,7 @@ import java.util.List;
 @Accessors(fluent = true)
 public abstract class RepositoryRunner<E extends Entity> {
 
-    private final Class<E> entity;
-    private final Layer layer;
+    private final Layer<E> layer;
 
     public abstract List<E> parse();
 

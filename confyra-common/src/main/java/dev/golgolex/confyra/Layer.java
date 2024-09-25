@@ -10,7 +10,6 @@ import lombok.experimental.Accessors;
 public abstract class Layer<E extends Entity> {
 
     private final String id;
-
     private final String prefix;
 
 }
