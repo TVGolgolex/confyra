@@ -11,7 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/confyra-common" />
             <option value="$PROJECT_DIR$/confyra-config" />
-            <option value="$PROJECT_DIR$/confyra-language" />
+            <option value="$PROJECT_DIR$/confyra-demo" />
           </set>
         </option>
       </GradleProjectSettings>

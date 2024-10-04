@@ -11,7 +11,7 @@ allprojects {
     apply(plugin = "com.github.johnrengelman.shadow")
 
     group = "dev.golgolex.confyra"
-    version = "1.0.0-SNAPSHOT"
+    version = "1.0.1-RELEASE"
 
     repositories {
         maven {
